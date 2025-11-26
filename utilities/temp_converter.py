@@ -7,4 +7,4 @@ print(f"{fahrenheit}°F = {celsius:.2f}°C")
 
 print('thanks!')
 
-# call me for meetings!
+# call me for meetings
